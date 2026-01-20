@@ -1,2 +1,2 @@
 # python_modules
-Colección de módulos propios para python
+# Repo para subir módulos que uso frecuentemente
